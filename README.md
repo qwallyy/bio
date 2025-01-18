@@ -1,2 +1,2 @@
-# qwally.github.io
-my bio lol-
+# qwally.github.io/bio/bio
+my bio for tg lol
