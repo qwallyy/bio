@@ -71,7 +71,7 @@ body {
     overflow: hidden;
 }
 
-/* Анимация смены темы */
+
 .circle::before {
     content: '';
     position: absolute;
@@ -90,7 +90,7 @@ body.dark .circle::before {
     transform: scale(1);
 }
 
-/* Темная тема */
+
 body.dark {
     background: #333;
 }
